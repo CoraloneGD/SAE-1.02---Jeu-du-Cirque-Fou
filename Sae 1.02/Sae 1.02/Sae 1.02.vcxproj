@@ -124,10 +124,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.c" />
+    <ClCompile Include="partie.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="doc.h" />
-    <ClInclude Include="structures.h" />
+    <ClInclude Include="partie.h" />
+    <ClInclude Include="joueur.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="crazy.cfg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

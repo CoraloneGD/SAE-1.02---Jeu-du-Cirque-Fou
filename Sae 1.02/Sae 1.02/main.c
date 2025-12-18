@@ -1,10 +1,12 @@
 #include <stdio.h>
 #include <assert.h>
-#include <string.h>
-#include "structures.h"
+#include "joueur.h"
+#include "partie.h"
 
 
 
 int main() {
-	printf("Hello, World!\n");
+	Parametres p;
+	InitialisePartie(&p); // On initialise une partie
+
 }
