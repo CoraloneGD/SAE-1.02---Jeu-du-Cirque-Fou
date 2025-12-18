@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natha\\source\\repos\\SAE-1.02---Jeu-du-Cirque-Fou\\Sae 1.02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB60A541-30EF-47E9-9087-9B0146311BA9}|Sae 1.02\\Sae 1.02.vcxproj|C:\\Users\\natha\\source\\repos\\SAE-1.02---Jeu-du-Cirque-Fou\\Sae 1.02\\Sae 1.02\\partie.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB60A541-30EF-47E9-9087-9B0146311BA9}|Sae 1.02\\Sae 1.02.vcxproj|solutionrelative:Sae 1.02\\partie.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB60A541-30EF-47E9-9087-9B0146311BA9}|Sae 1.02\\Sae 1.02.vcxproj|C:\\Users\\natha\\source\\repos\\SAE-1.02---Jeu-du-Cirque-Fou\\Sae 1.02\\Sae 1.02\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB60A541-30EF-47E9-9087-9B0146311BA9}|Sae 1.02\\Sae 1.02.vcxproj|solutionrelative:Sae 1.02\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB60A541-30EF-47E9-9087-9B0146311BA9}|Sae 1.02\\Sae 1.02.vcxproj|C:\\Users\\natha\\source\\repos\\SAE-1.02---Jeu-du-Cirque-Fou\\Sae 1.02\\Sae 1.02\\partie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB60A541-30EF-47E9-9087-9B0146311BA9}|Sae 1.02\\Sae 1.02.vcxproj|solutionrelative:Sae 1.02\\partie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB60A541-30EF-47E9-9087-9B0146311BA9}|Sae 1.02\\Sae 1.02.vcxproj|C:\\Users\\natha\\source\\repos\\SAE-1.02---Jeu-du-Cirque-Fou\\Sae 1.02\\Sae 1.02\\joueur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB60A541-30EF-47E9-9087-9B0146311BA9}|Sae 1.02\\Sae 1.02.vcxproj|solutionrelative:Sae 1.02\\joueur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "partie.c",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\SAE-1.02---Jeu-du-Cirque-Fou\\Sae 1.02\\Sae 1.02\\partie.c",
+              "RelativeDocumentMoniker": "Sae 1.02\\partie.c",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\SAE-1.02---Jeu-du-Cirque-Fou\\Sae 1.02\\Sae 1.02\\partie.c",
+              "RelativeToolTip": "Sae 1.02\\partie.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-25T18:22:36.547Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "partie.h",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\SAE-1.02---Jeu-du-Cirque-Fou\\Sae 1.02\\Sae 1.02\\partie.h",
+              "RelativeDocumentMoniker": "Sae 1.02\\partie.h",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\SAE-1.02---Jeu-du-Cirque-Fou\\Sae 1.02\\Sae 1.02\\partie.h",
+              "RelativeToolTip": "Sae 1.02\\partie.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-25T17:20:32.872Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\SAE-1.02---Jeu-du-Cirque-Fou\\Sae 1.02\\Sae 1.02\\main.c",
+              "RelativeDocumentMoniker": "Sae 1.02\\main.c",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\SAE-1.02---Jeu-du-Cirque-Fou\\Sae 1.02\\Sae 1.02\\main.c",
+              "RelativeToolTip": "Sae 1.02\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-12T21:04:12.243Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "joueur.h",
+              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\SAE-1.02---Jeu-du-Cirque-Fou\\Sae 1.02\\Sae 1.02\\joueur.h",
+              "RelativeDocumentMoniker": "Sae 1.02\\joueur.h",
+              "ToolTip": "C:\\Users\\natha\\source\\repos\\SAE-1.02---Jeu-du-Cirque-Fou\\Sae 1.02\\Sae 1.02\\joueur.h",
+              "RelativeToolTip": "Sae 1.02\\joueur.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-22T12:07:42.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
