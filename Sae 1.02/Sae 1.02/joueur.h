@@ -20,7 +20,6 @@
 	@sa MAX_CHAR
 */
 typedef struct {
-	char nom[MAX_CHAR];
 	char prenom[MAX_CHAR];
 	int score;     
 	int prochainTour;
@@ -35,10 +34,10 @@ typedef struct {
 */
 typedef struct {
 	int id;
+	int taille;
 	Joueur listeJoueurs[MAX_JOUEURS];
 } joueursListe;
 
-int AjoutJoueurs(Joueur* jo, joueursListe* joListe);
 
 
 
